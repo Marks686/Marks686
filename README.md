@@ -41,9 +41,9 @@
 
 ![Metrics](https://metrics.lecoq.io/Marks686?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
+
+
 ## 今年汇总 ✨
+| <a href="https://github.com/Marks686/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marks686&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Marks686/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marks686&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Marks686&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marks686&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
