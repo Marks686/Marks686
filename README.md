@@ -44,6 +44,9 @@
 
 
 ## 今年汇总 ✨
-| <a href="https://github.com/Marks686/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marks686&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Marks686/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marks686&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- GitHub 数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marks686&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
 
 
