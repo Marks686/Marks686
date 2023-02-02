@@ -22,7 +22,7 @@
 
 - 👨‍💻 <a href="https://github.com/Marks686/CPP_code" target="_blank">C++代码仓库。</a>
 
-- 👨‍💻 <a href="https://github.com/Marks686/CPP-direction_Blog" target="_blank">C++方向学习过程的博客记录仓库</a>
+- 👨‍💻 <a href="https://github.com/Marks686/CPP-direction_Blog" target="_blank">C++方向学习过程的博客记录仓库。</a>
 
 
 
