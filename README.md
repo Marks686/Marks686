@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
-- 👨‍💻 <a href="https://github.com/Marks686/C_code" target="_blank">C语言代码仓库</a>
+- 👨‍💻 <a href="https://github.com/Marks686/C_code" target="_blank">C语言代码仓库。</a>
 
 - 👨‍💻 <a href="https://github.com/Marks686/data-structure_code" target="_blank">初阶数据结构、高阶数据结构、leetcode刷题+算法代码仓库。</a>
 
