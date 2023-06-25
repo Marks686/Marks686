@@ -6,16 +6,6 @@
 
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-
-
-记录整个C/C++方向的学习过程 
-
-
-
-
-
-
-
 💪 正在学习: 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
