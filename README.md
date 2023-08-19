@@ -8,7 +8,7 @@
 
 💪 正在学习: 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
