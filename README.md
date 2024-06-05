@@ -14,10 +14,6 @@
 - 🌐 <a href="https://gitee.com/li-kaixuan686" target="_blank">Gitee</a> 
  
 
-- 👨‍💻 <a href="https://github.com/Marks686/Java" target="_blank">Java代码</a>   👨‍💻 <a href="https://github.com/Marks686/JAVA_Blog" target="_blank">Java博客</a>
-
-- 👨‍💻 <a href="https://github.com/Marks686/C_code" target="_blank">C代码</a>    👨‍💻 <a href="https://github.com/Marks686/CPP-direction_Blog" target="_blank">C++博客</a>  
-
 
 
 
@@ -31,7 +27,7 @@
 
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marks686&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 | <a href="https://github.com/Marks686/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marks686&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Marks686/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marks686&layout=compact&theme=buefy&hide_border=true" /></a> |
