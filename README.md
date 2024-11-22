@@ -3,15 +3,13 @@
 
 
 
+<div align="center">
+<!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/palp1tate/palp1tate/img/coding.gif" /><br>
 
 
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy" />
+![](https://raw.githubusercontent.com/Marks686/Marks686/refs/heads/output/github-contribution-grid-snake.svg)
 
-
-
-
- 🌐 <a href="https://blog.csdn.net/m0_68800221" target="_blank">CSDN</a>   🌐 <a href="https://gitee.com/li-kaixuan686" target="_blank">Gitee</a> 
- 
 
 
 
